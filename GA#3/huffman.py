@@ -31,10 +31,6 @@ def main():
 
     
 #   (C) Huffman Code
-#    print my_arr[0][0]
-#    print type(my_arr[0][0])
-#    my_arr = RunLengthToBits(my_arr)
-#    print my_arr
     
     
     
